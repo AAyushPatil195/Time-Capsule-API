@@ -1,0 +1,15 @@
+{
+  "name": "time-capsule-api",
+  "version": "1.0.0",
+  "description": "A digital backend service to store time-locked messages",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "mocha tests/**/*.test.js"
+  },
+  "keywords": ["api", "time-capsule", "express", "jwt"],
+  "author": "",
+  "license": "ISC"
+}
