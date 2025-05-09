@@ -87,6 +87,15 @@ npm run dev
 ```
 Server will typically run on http://localhost:3000.
 ---
+
+## 🧪 How to Run Tests
+Ensure dependencies are installed and run:
+
+```bash
+npm test
+```
+Tests cover authentication, capsule behavior, pagination, and expiration logic.
+
 ## 📦 Endpoints Overview
 
 ```http
